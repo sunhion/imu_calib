@@ -46,3 +46,5 @@ Applies the accelerometer calibration parameters computed by the do_calib node. 
   Whether to compute gyro biases at startup and subsequently subtract them off
 - `~gyro_calib_samples` (int, default: 100) <br>
   The number of measurements to use for computing the gyro biases
+
+I will rewrite the ros package.
